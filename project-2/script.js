@@ -4,7 +4,7 @@ function myFunction(e) {
             window.location.href = "child.html";
             break;
         case "men":
-            window.location.href = "index.html";
+            window.location.href = "men.html";
 
             break;
         case "women":
